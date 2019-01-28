@@ -20,8 +20,8 @@ avatar: https://avatars0.githubusercontent.com/u/9057214?s=460&v=4
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Yo
-    url: /yo
+  - name: Sobre mi
+    url: /sobre-mi
 
 # Pagination
 paginate: 20
@@ -52,7 +52,7 @@ footer-text: © 2019 Roger Cendrós
 disqus: # <username>.disqus.com
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-125014789-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
